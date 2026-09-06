@@ -11,4 +11,4 @@ I'm a third year undergraduate from [CCDS](https://ccds.fzu.edu.cn/), [Fuzhou Un
 
 Unfortunately, I have not yet accumulated lab research experience and mature project. Otherwise, my CV would be accessible in `assets` directory.
 
-[Email](mailto:uye_soarin@fzu.edu.cn) / [Github](https://github.com/UYESoarin) / [Wechat](../images/wechat.png)
+[Email](uye_soarin@fzu.edu.cn) / [Github](https://github.com/UYESoarin) / [Wechat](../images/wechat.png)
