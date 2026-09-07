@@ -9,7 +9,7 @@ redirect_from:
 
 #### Introdution
 
-I am a third year undergraduate from [CCDS](https://ccds.fzu.edu.cn/), [Fuzhou University](https://www.fzu.edu.cn/). i've got no hobbies and have made nothing.
+I am a third year undergraduate from [CCDS](https://ccds.fzu.edu.cn/), [Fuzhou University](https://www.fzu.edu.cn/). I've got no hobbies and have made nothing.
 
 #### Skill
 
