@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-#### Introdution
+### Introdution
 
-I am a third year undergraduate from [CCDS](https://ccds.fzu.edu.cn/), [Fuzhou University](https://www.fzu.edu.cn/). I've got no hobbies and have made nothing.
+I am a third year undergraduate from [CCDS](https://ccds.fzu.edu.cn/), [Fuzhou University](https://www.fzu.edu.cn/). I've got no special hobbies and have made nothing remarkable.
 
-#### Skill
+### Skill
 
 My research interest includes computer graphics, computer animation and  game design as well as full-stack development. I am fascinated by interactive visual content, real-time rendering, and end-to-end web application construction.
 
-#### Experience
+If you would like to know what I'm studying, please check out my github where my notes are posted.
+
+### Experience
 
 Unfortunately, I haven't yet accumulated lab research experience and mature project. Otherwise, my CV would be accessible in `assets` directory.
 
-#### Plan
+### Plan
 
 I am trying to combine my major with my interests. I will seek a job directly if I do well in this.  Ohterwise, I'll have to pursue further academic studies.
 
